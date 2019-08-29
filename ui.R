@@ -200,7 +200,7 @@ shinyUI(
                             infoBoxOutput("ibox21"),
                             infoBoxOutput("ibox22"),
                             infoBoxOutput("ibox23"),
-                            textOutput(text_safety)
+                            textOutput("text_safety")
                             )
                   
                 )
